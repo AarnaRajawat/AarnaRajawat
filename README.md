@@ -16,6 +16,11 @@ I'm passionate about building intuitive UI, creating seamless user experiences, 
 I love contributing to open-source projects and collaborating on exciting ideas!  
 If you're working on something interesting, feel free to reach out.  
 
+## 📊 GitHub Stats  
+![Aarna's GitHub stats](https://github-readme-stats.vercel.app/api?username=AarnaRajawat&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AarnaRajawat&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AarnaRajawat&layout=compact&theme=radical) 
+
 📫 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aprana-rajawat-338550267/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://portfolio-web-amber-alpha.vercel.app/)  
