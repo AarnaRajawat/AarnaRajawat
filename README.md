@@ -12,11 +12,6 @@ I'm passionate about building intuitive UI, creating seamless user experiences, 
 ### 🛠 Tools & Frameworks  
 `React.js` `TypeScript` `JavaScript` `MUI` `Tailwind CSS` `Redux` `Bootstrap`  
 
-## 📊 GitHub Stats  
-![Aparna's GitHub stats](https://github-readme-stats.vercel.app/api?username=aparnaraghav&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aparnaraghav&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aparnaraghav&layout=compact&theme=radical)  
-
 ## 🤝 Collaboration & Contributions  
 I love contributing to open-source projects and collaborating on exciting ideas!  
 If you're working on something interesting, feel free to reach out.  
